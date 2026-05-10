@@ -5,21 +5,29 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
-
-###
-
 <h3 align="left">🚀 About Me</h3>
 
-###
+---
 
-<img align="right" height="189" src="https://img.magnific.com/free-vector/simple-vibing-cat-square-meme_742173-4493.jpg"  />
+<img 
+  align="right" 
+  height="250" 
+  src="https://img.magnific.com/free-vector/simple-vibing-cat-square-meme_742173-4493.jpg"
+  style="border: 4px solid #FFFFFF; border-radius: 12px; background: #000; padding: 3px;"
+/>
 
-###
+<p align="left">
+👨‍💻 I’m <b>Vidath Theekshana</b>, a Full-Stack Developer & CS undergraduate at SLIIT<br><br>
 
-<p align="left">I’m Vidath Theekshana, a Full-Stack Developer & CS undergraduate at SLIIT<br>I enjoy building clean, modern web applications ✨<br>I like turning ideas into real projects 🚀<br>Currently learning advanced💡<br>backend and cloud concepts 🌱<br>Interested in Web Development and Open Source 💻<br>Focused on improving coding and problem-solving skills 🎯<br>Always learning new technologies 🔭</p>
+✨ I enjoy building clean, modern, and scalable web applications<br>
+🚀 I love turning ideas into real-world projects<br><br>
+
+🌱 Currently learning advanced backend systems & cloud technologies<br>
+💻 Interested in Web Development and Open Source contributions<br><br>
+
+🎯 Focused on improving problem-solving and software engineering skills<br>
+🔭 Always exploring new tools and technologies
+</p>
 
 ###
 
@@ -76,6 +84,8 @@
 </div>
 
 ###
+###
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/VidathTheekshana/VidathTheekshana/stats-output/stats.svg" height="150" alt="stats graph"  />
@@ -95,7 +105,7 @@
   <a href="https://www.facebook.com/vidath.2003/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="vidaththeekshana@gmail.cim" target="_blank">
+  <a href="vidaththeekshana@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
