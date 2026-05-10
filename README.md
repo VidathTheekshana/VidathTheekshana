@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=28&fontColor=ffffff" />
-</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Vidath+Theekshana;Full-Stack+Developer;SLIIT+Undergraduate;Cloud+%26+Web+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Vidath+Theekshana👋;Full-Stack+Developer;SLIIT+Undergraduate;Cloud+%26+Web+Enthusiast" />
 </p>
 
 ###
