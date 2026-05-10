@@ -1,88 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Vidath+Theekshana;CS+Undergraduate+@+SLIIT;Passionate+Web+Developer" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Spring+Boot+Learner" alt="Typing Subtext" />
-</p>
+# Hi 👋, I'm Vidath Theekshana
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px" alt="Wave Gif" />
-</p>
+### 💻 Full-Stack Developer | CS Undergraduate @ SLIIT
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Spring+Boot+%26+React+Developer;Passionate+About+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-## 🚀 Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,spring,mongodb,java,c,cpp,cs,mysql,html,css,figma,linux,postman,vscode,git,github&perline=8&theme=dark" alt="Tech Stack Icons" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=VidathTheekshana&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
-</p>
+```yaml
+Name: Vidath Theekshana
+Education: BSc (Hons) in Computer Science
+University: SLIIT
+Focus: Full-Stack Development
+Backend: Spring Boot, Node.js
+Frontend: React, Next.js
+Database: MongoDB, MySQL
+Currently Learning: Advanced Spring Ecosystem
 
----
+🛠️ Tech Stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,cs" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,spring,express" />
+Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode" /> </div>
+📊 GitHub Analytics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=VidathTheekshana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidathTheekshana&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=VidathTheekshana&theme=tokyonight&hide_border=true" /> </div>
+🌟 Featured Projects
+<div align="center"> <a href="https://github.com/VidathTheekshana/Formlang-with-LEX-YACC"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Formlang-with-LEX-YACC&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/VidathTheekshana/Distributed-Messaging-System"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Distributed-Messaging-System&theme=tokyonight&hide_border=true" /> </a> </div>
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/VidathTheekshana"> <img src="https://skillicons.dev/icons?i=github" width="55" /> </a> <a href="https://linkedin.com/in/vidath-theekshana"> <img src="https://skillicons.dev/icons?i=linkedin" width="55" /> </a> <a href="mailto:vidaththeekshana@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55" /> </a> <a href="https://www.instagram.com/vidath._.t"> <img src="https://skillicons.dev/icons?i=instagram" width="55" /> </a> </div>
+⚡ Fun Quote
+<div align="center">
 
-## 🌟 Featured Projects
+"Code. Learn. Build. Repeat."
 
-<p align="center">
-  <a href="https://github.com/VidathTheekshana/Formlang-with-LEX-YACC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Formlang-with-LEX-YACC&theme=radical" alt="Formlang Project" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VidathTheekshana/Distributed-Messaging-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VidathTheekshana&repo=Distributed-Messaging-System&theme=radical" alt="Messaging System" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vidath-theekshana" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:vidaththeekshana@gmail.com" title="Gmail">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/VidathTheekshana" title="GitHub">
-    <img src="https://img.icons8.com/nolan/64/github.png" width="40" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/vidath._.t" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/vidath.2003" title="Facebook">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
-  </a>
-</p>
-
-
-
-
----
-
-## ✨ Fun Fact
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</p>
-
----
-
-## 👁️‍🗨️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT23398184&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+</div>
+<div align="center">
+⭐ Thanks for visiting my profile!
+</div> ```
