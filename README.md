@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Vidath+Theekshana👋;Full-Stack+Developer;SLIIT+Undergraduate;Cloud+%26+Web+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1600&pause=400&color=A855F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;I'm+Vidath+Theekshana+%F0%9F%91%8B;Crafting+Full-Stack+Web+Applications;Engineering+Cloud-Ready+Solutions+%E2%9A%99%EF%B8%8F;Turning+Ideas+into+Real+Products+%F0%9F%92%A1;Let%27s+Build+the+Future+Together+%F0%9F%9A%80" />
 </p>
 
 ###
