@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=450&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;I'm+Vidath+Theekshana+%F0%9F%91%8B;Full-Stack+Developer+%7C+UI%2FUX+Focused+Engineer;Designing+Clean+%26+Intuitive+User+Experiences+%F0%9F%8E%A8;Building+Modern+React+%26+Spring+Boot+Applications;Turning+Ideas+into+User-Centered+Products+%F0%9F%92%A1;Engineering+Scalable+%26+Cloud-Ready+Systems+%E2%9A%99%EF%B8%8F;Crafting+Interfaces+That+Feel+Good+to+Use+%F0%9F%91%80;Let's+Build+Beautiful+%26+Powerful+Products+%F0%9F%9A%80" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" />
+
 <h3 align="left">💁 About Me</h3>
 
 ---
@@ -123,8 +125,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 
 ###
