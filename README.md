@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1600&pause=400&color=A855F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;I'm+Vidath+Theekshana+%F0%9F%91%8B;Crafting+Full-Stack+Web+Applications;Engineering+Cloud-Ready+Solutions+%E2%9A%99%EF%B8%8F;Turning+Ideas+into+Real+Products+%F0%9F%92%A1;Let%27s+Build+the+Future+Together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=450&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;I'm+Vidath+Theekshana+%F0%9F%91%8B;Full-Stack+Developer+%7C+UI%2FUX+Focused+Engineer;Designing+Clean+%26+Intuitive+User+Experiences+%F0%9F%8E%A8;Building+Modern+React+%26+Spring+Boot+Applications;Turning+Ideas+into+User-Centered+Products+%F0%9F%92%A1;Engineering+Scalable+%26+Cloud-Ready+Systems+%E2%9A%99%EF%B8%8F;Crafting+Interfaces+That+Feel+Good+to+Use+%F0%9F%91%80;Let's+Build+Beautiful+%26+Powerful+Products+%F0%9F%9A%80" />
 </p>
-
-###
 
 <h3 align="left">💁 About Me</h3>
 
